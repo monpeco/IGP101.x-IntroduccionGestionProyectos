@@ -626,3 +626,83 @@ Como resumen en este objeto de aprendizaje pues hemos descrito brevemente
 lo que sería el código ético del Project management Institute.
 Muchas gracias.
 
+
+
+---
+
+#### Introducción a la Gestión de Proyectos   La Gestión de Proyectos: Framework   Conceptos Básicos de Gestión de Proyectos
+
+# Conceptos Básicos de Gestión de Proyectos
+
+Hola buenos días el objetivo
+de este objeto de aprendizaje
+es introducir algunos de los conceptos básicos de gestión de proyectos
+en primer lugar nos tenemos que preguntar qué es un proyecto
+entonces
+de acuerdo con el project management institute un proyecto es un esfuerzo temporal realizado para crear un resultado único
+vemos que en esta definición hay dos conceptos importantes
+por un lado está el concepto temporal y por otro lado el concepto único
+cuando hablamos de que el proyecto es un esfuerzo temporal
+estamos diciendo que un proyecto empieza y después finaliza
+y cuando finaliza un proyecto pues en primer lugar la forma habitual de finalizar un proyecto
+es cuando logramos los objetivos del proyecto
+pero también un proyecto puede finalizar porque los objetivos no se pueden cumplir
+o por alguna causa en ese caso también tenemos que parar el proyecto
+o también porque no existe la necesidad que originó inicialmente el proyecto
+también otro aspecto que tenemos
+que destacar de la definición de proyecto es que el resultado es único
+cuando
+nosotros un proyecto siempre lo realizamos
+pues para desarrollar un producto un servicio o la capacidad para realizar un servicio para preparar un documento un artículo
+veamos cualquier
+trabajo que podamos
+asignarle estas características básicas de temporal que tenga un principio y un fin
+y al final el resultado sea único podemos considerar que es un proyecto
+cuando hablamos de la gestión de proyectos que nos estamos refiriendo pues
+gestionar un proyecto es aplicar una serie de conocimientos habilidades herramientas
+y técnicas
+que permiten cumplir los objetivos del proyecto
+en particular el project management institutet en el PMBOK cuarta edición
+propone una metodología en la que se identifican pues un total de cuarenta y dos procesos
+de dirección de proyectos
+entonces el PMBOK describe los procesos las técnicas las herramientas que se tienen que aplicar en cada caso
+otro aspecto importante en un proyecto es que quien es la persona que gestiona el
+proyecto entonces en principio el nombre que se suele utilizar es el jefe de proyecto proyect
+manager
+que en principio la persona que designe una organización para gestionar y alcanzar los objetivos del proyecto
+entonces
+qué es lo que debe de cumplir un proyect manager pues
+bueno es una persona que debe conocer
+las herramientas y técnicas adecuadas para dirigir proyectos eficientemente
+luego
+debe tener ciertas habilidades personales de liderazgo que permiten guiar el proyecto esto sobre todo tiene que
+ver con proyectos complejos donde hay que
+no sólo hay que planificar proyectos sino además hay que dirigir recursos humano los
+contratos hay toda una serie de temas alrededor de un proyecto que requieren bastantes habilidades
+y
+digamos proyect manager es la persona que dirige estas tareas
+que son un poco las realizar lo que denominamos equipo del proyecto
+a otro concepto que también es muy importante
+en gestión de proyectos es los denominados interesados del proyecto
+entonces quiénes son los interesados de proyecto pues
+pues son pues personas entidades organizaciones
+que
+que o bien participar activamente el proyecto o también aquellas que es cuyos intereses pueden verse afectados positiva o negativamente por
+el proyecto
+cuando nosotros estamos en un proyecto
+estos hechos los tenemos que tener muy en cuenta
+también hay personas que no están directamente el proyecto pero que pueden influir sobre su ejecución
+entonces una de las labores más importantes un jefe de proyecto es identificar
+a los interesados más significativo remarcó lo de los más significativos
+porque son los que hay que tener presente a la hora de planificar nuestro proyecto
+quienes son posibles interesados de un proyecto pues bueno estos muy variado y depende de cada
+ámbito de cada proyecto pero por nombrar algunos pues podemos los clientes usuarios
+puesto son las personas y organizaciones que van a usar los servicios o productos
+que se genera nuestro proyecto
+el patrocinador pues esto es muy importante es la persona que financia el proyecto
+en las empresas pues suele haber directores de programa o de portafolio que son
+responsables de nivel superior pues que coordinan proyectos relacionados o
+programas de alto nivel
+puede haber interesados externos como comentaba esto depende de cada proyecto de cada caso de cada campo de conocimiento
+pero sí que es un tema muy importante antes de empezar gestionar un proyecto
+muchas gracias.
