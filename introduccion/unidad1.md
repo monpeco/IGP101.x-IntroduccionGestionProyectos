@@ -706,3 +706,78 @@ programas de alto nivel
 puede haber interesados externos como comentaba esto depende de cada proyecto de cada caso de cada campo de conocimiento
 pero sí que es un tema muy importante antes de empezar gestionar un proyecto
 muchas gracias.
+
+
+#### Introducción a la Gestión de Proyectos   La Gestión de Proyectos: Framework   La Organización
+
+# La Organización
+
+
+Hola buenos días el objetivo de este objeto de aprendizaje
+es describir la organización en la que se desarrolla el proyecto y su importancia algunos conceptos relacionados
+con la organización que hay que tener en cuenta a la hora de gestionar un proyecto adecuadamente
+los proyectos no son algo que se realiza aisladamente sino normalmente
+se realizan dentro de una determinada organización
+y claro sus características se deben de tener muy en cuenta para poder gestionarlos adecuadamente
+por ejemplo no está trabajando una empresa esa empresa organización
+sobre la que se desarrolla el proyecto
+o si estamos trabajando la universidad la universidad es la organización que desarrolla o nuestros proyectos
+todas las organizaciones tienen su forma de trabajar
+y
+y además muchas de ellas también han establecido formalmente se lo que a veces
+vemos como visiones valores
+normas creencias y expectativas políticas bueno hay toda una nomenclatura de lenguaje de documentació donde de estos
+conceptos
+donde las organizaciones un poco intentan plasmar
+su forma de trabajar su forma de realizar las cosas
+lógicamente esto es importante para gestionar los proyectos se desarrollan dichas organizaciones otros datos que tenemos muy en cuenta
+otro aspecto muy importante de las organizaciones es que pues las organizaciones tienen determinadas estructuras
+también influye en la forma que gestionan los proyectos pues podemos encontrar desde
+las organizaciones digamos funcionales clásicas
+que son pues organizaciones jerárquicas donde habíamos cada empleado cada trabajador tiene jefes bien definidos los roles están bastante
+claros
+en el otro extremo tenemos digamos lo que serían las orden las organizaciones claramente orientadas a la gestión por proyecto
+donde en este caso pues la figura del problema ayer tiene mucha independencia mucha autoridad sobre
+la forma de ejecutar y gestionar los proyectos
+y entre estos dos digamos casos límite pues existe toda una amplia
+variedad de organizaciones que presentan características intermedias
+que sólo que se denominan organizaciones matriciales
+como hemos comentado pues estas características hay que tenerlas en cuenta
+para poder gestionar el proyecto adecuadamente
+otro aspecto muy importante de las organizaciones es que las organizaciones además siempre presentan
+lo que denominamos activos los activos son
+elementos documentos cosas que tenemos en la organización que nos pueden ayudar a gestionar el proyecto mejor
+en concreto de los activos de una organización voy a destacar dos lo que serían los
+procesos y procedimientos
+y también las bases de conocimiento disponibles
+con respecto a los procesos y procedimientos bueno pues esto es
+un tema muy amplio podemos
+que entendemos por procesos y procedimientos pues desde estándares normas de calidad
+y procedimientos de calidad auditorías
+tenemos
+pues como a cómo se mide la evaluación de nuestro trabajo lo que denominamos desempeño
+cómo varía los resultados de los proyectos
+existen también pueden existir plantillas de trabajo
+si tenemos ya plantillas
+preparadas nos pueden ayudar a digamos gestionaría documentar nuestro trabajo de una forma mejor
+pueden haber requisitos de comunicacion a quien hay que comunicar determinada información en qué momento
+puede haber
+ciertos temas de control financiero que tenemos que tener en cuenta a la hora de planificar
+ciertas partes de nuestro proyecto etcétera todo esto lo que denominaremos procesos y procedimientos
+de la organización
+y también consideramos activos de nuestra organización lo que serían las bases corporativas de conocimiento
+pues dentro de las bases corporativas casi podemos decir que sea cualquier información
+que la organización dispone y que nosotros nos ayuda
+a gestionar mejor nuestro proyecto pues desde datos de cómo se han se han realizado procesos anteriores
+proyectos para saber si se es
+cuando las cosas están haciendo mejor o peor
+archivos y documentos de proyectos que han que se han realizado anteriormente estos albergues domináis información histórica y lecciones aprendidas
+cuando ha habido problemas cuando ha habidos defectos como se han resuelto pues si esto está documentado de toda adecuadamente
+y eso nos permite tener en cuenta lo que pasó otras veces para intentar no repetir
+los errores
+una cosa muy importante es la configuración entonces lo normal es que
+cuando estamos trabajando en gestión de proyectos muy importante
+tener siempre la última versión de
+de los planes de las normas de los procedimientos entones
+es muy importante que cuando estemos el proyecto accedemos siempre a la última versión la que está en vigor
+muchas gracias.
